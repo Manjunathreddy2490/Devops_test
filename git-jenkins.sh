@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "==================="
+
 echo "hi, integrating jenkins with git"
 echo "started this job at"
 date
